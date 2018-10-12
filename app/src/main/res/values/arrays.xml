@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storage_array">
+        <item> Use Internal Storage </item>
+        <item> Use External Storage </item>
+        <item> Use Cache Storage </item>
+        <item> Use Shared Preferences </item>
+        <item> Use SQlite Database </item>
+        <item> Use Room Database </item>
+    </string-array>
+</resources>
